@@ -65,6 +65,13 @@
       "description": "Build a reading list REST API with CRUD endpoints, request validation, and HTTP status codes.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-11-24"
+    },
+    {
+      "id": "fastapi-test-driven-development",
+      "title": "Test-Driven API Development with pytest",
+      "description": "A challenging one-hour lab using pytest and FastAPI TestClient to develop filtering through failing tests, regression checks, and isolated fixtures.",
+      "path": "assignments/fastapi-test-driven-development",
+      "dueDate": "2026-11-24"
     }
   ]
 }
